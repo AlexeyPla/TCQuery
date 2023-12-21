@@ -1,2 +1,2 @@
 # TCQuery
-my collection of tc Query
+my collection of tc query
